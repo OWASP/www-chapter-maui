@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Shereen Gustad](mailto:shereen.gustad@owasp.org)
+* [Kinnaird McQuade](mailto:kinnaird.mcquade@owasp.org)
