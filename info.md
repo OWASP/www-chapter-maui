@@ -2,9 +2,9 @@
 * Provide Group Information
 
 ### Social Links
-* [Meetup]([#](https://www.meetup.com/owasp-maui/))
+* [Meetup.com](https://www.meetup.com/owasp-maui/)
 
-### Code Repository
+### Code Repositories
 * [Page Repo](https://github.com/OWASP/www-chapter-hawaii)
 
 ### OWASP Information
