@@ -5,7 +5,7 @@ title: OWASP Maui
 tags: example-tag
 region: North America
 meetup-group: owasp-maui
-
+postal-code: 96761
 ---
 
 ## Aloha
