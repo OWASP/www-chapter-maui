@@ -9,7 +9,9 @@ postal-code: 96761
 ---
 
 ## Aloha
-Aloha and welcome to the official OWASP Maui Chapter! If you would like to join and participate in our meetups and events and get plugged into the community, we'd love to have you. The easiest way is to join our [OWASP Maui Meetup Group](https://www.meetup.com/owasp-maui/), where we post all of our meetups and events. Hope to see you soon 🤙
+Aloha and welcome to the official OWASP Maui Chapter 🏝️
+
+If you would like to join and participate in our meetups and events and get plugged into the community, we'd love to have you. The easiest way is to **join our [OWASP Maui Meetup Group](https://www.meetup.com/owasp-maui/)**, where we post all of our meetups and events. Hope to see you soon 🤙
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
