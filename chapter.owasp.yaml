@@ -1,0 +1,25 @@
+leaders:
+  - name: Shereen Gustad
+    email: shereen.gustad@owasp.org
+  - name: Kinnaird McQuade
+    email: kinnaird.mcquade@owasp.org
+    github: kmcquade
+location:
+  country: USA
+  country_code: US
+  region: Hawaii
+  city: Maui
+  postal_code: '96761'
+  latitude: 20.8738769
+  longitude: -156.677678
+meetup_group: owasp-maui
+name: OWASP Maui
+repositories:
+  - name: www-chapter-maui
+    url: https://github.com/OWASP/www-chapter-maui
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-maui
